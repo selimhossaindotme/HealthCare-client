@@ -23,7 +23,6 @@ const PublicNavbar = () => {
         <header className="sticky top-0 z-50 flex h-16 w-full items-center justify-around bg-white px-4 shadow-md">
             <div className="container mx-auto flex h-16 items-center justify-between px-4">
                 {/* Logo */}
-                {/* Logo */}
                 <div>
                     <Link
                         href="/"
